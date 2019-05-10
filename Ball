@@ -1,0 +1,13 @@
+unit Ball;
+
+interface
+
+type Ball = record
+	obj: GameObject;
+	coup: integer;
+	velocite: integer;
+end;
+
+implementation
+
+end.
